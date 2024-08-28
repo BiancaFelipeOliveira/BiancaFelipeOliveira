@@ -9,10 +9,6 @@
 
 ###
 
-<p align="left">I'm studying the last semester of Systems Analysis and Development, I learned about the basics of a lot of things, but my biggest interest was in web programming, I really like creating the visual part of programs. Because of this, I have been taking some free online UI/UX Design courses to make the most of the area and I consume a lot of this content.</p>
-
-###
-
 <h3 align="left">Experience</h3>
 
 ###
