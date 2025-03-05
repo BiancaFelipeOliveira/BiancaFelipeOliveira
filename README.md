@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bianca and I'm a Systems Analysis and Development Student from Guarulhos, SP - Brazil</h2>
+<h2 align="left">Oi! Meu nome é Bianca e eu sou formada em Análise e Desenvolvimento de Sistemas e no momento estou no primeiro semestre de Engenharia da Computação, sou de Guarulhos, SP - Brasil</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Experience</h3>
+<h3 align="left">Experiência</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">Contatos</h3>
 
 ###
 
