@@ -6,6 +6,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=biancafelipeoliveira&theme=onedark&show_icons=true"
 />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafelipeolivera&hide_progress=true"/>
 </div>
 
 ###
