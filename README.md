@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  ![Bianca's GitHub stats] <br> <img src="https://github-readme-stats.vercel.app/api?username=biancafelipeoliveira&theme=dark&show_icons=true"
-/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BiancaFelipeOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=biancafelipeoliveira&theme=dark&show_icons=true"
+/>
 </div>
 
 ###
