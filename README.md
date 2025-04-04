@@ -1,5 +1,5 @@
-###Oi! Meu nome é Bianca
-#Sou formada em Análise e Desenvolvimento de Sistemas e no momento estou no primeiro semestre de Engenharia da Computação, sou de Guarulhos, SP - Brasil
+<h3>Oi! Meu nome é Bianca</h3>
+<p>Sou formada em Análise e Desenvolvimento de Sistemas e no momento estou no primeiro semestre de Engenharia da Computação, sou de Guarulhos, SP - Brasil</p>
 
 ###
 
