@@ -1,53 +1,13 @@
-<h3>Oi! Meu nome é Bianca</h3>
-<p>Sou formada em Análise e Desenvolvimento de Sistemas e no momento estou no primeiro semestre de Engenharia da Computação, sou de Guarulhos, SP - Brasil</p>
+# 💫 About Me:
+I’m a 2nd-semester Computer Engineering student, currently focusing on projects using the Angular framework.
 
-###
 
-![BiancaFelipeOliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFelipeOliveira&theme=radical&show_icons=true&hide_border=false&layout=compact)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bia.felippe_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-felipe-de-oliveira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biancafelipedeoliveira5@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFelipeOliveira&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Experiência</h3>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVlODEwdHIyN2djZTNjeGF0M25nZDU3eTRmZGt1aG4yOG1rZG82ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FHsq5zSmmKYFkV6Doh/giphy.webp"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Contatos</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/bia.felippe_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/bianca-felipe-de-oliveira-perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
