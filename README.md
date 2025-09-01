@@ -3,9 +3,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafelipeoliveira&layout=compact&theme=onedark"/>
-</div>
+![BiancaFelipeOliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFelipeOliveira&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ###
 
