@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🪩 I’m a 2nd-semester Computer Engineering student 
 - ⚝ Focusing on Angular framework
-- 📓 I'm learning French
+- 📓 I'm learning French now
 - ❧ From Brazil
 
 ## 🌐 Socials:
