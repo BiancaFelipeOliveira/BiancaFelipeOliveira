@@ -1,15 +1,33 @@
-# 💫 About Me:
-- 🪩 I’m a 2nd-semester Computer Engineering student 
-- ⚝ Focusing on Angular framework
-- 📓 I'm learning french now
-- ❧ From Brazil
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EEAECA,50:F28ABB,100:E072A2&text=Bianca%20Felipe&fontColor=FFFFFF&fontSize=56&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Formada%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas%20|%20Estudante%20de%20Engenharia%20da%20Computação&descSize=13&descAlignY=52" width="100%">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bia.felippe_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-felipe-de-oliveira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biancafelipedeoliveira5@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bianca-felipe-de-oliveira/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-EEAECA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!--
+  <a href="https://www.behance.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Behance-EEAECA?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  -->
+  <a href="mailto:biancafelipedeoliveira@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-F28ABB?style=for-the-badge&logo=gmail&logoColor=ffffff%22" />
+  </a>
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  -->
+  <a href="https://github.com/BiancaFelipeOliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-E072A2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@BiancaFelipedeOliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Youtube-EEAECA?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFelipeOliveira&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:EEAECA,50:F28ABB,100:E072A2&section=footer" width="100%">
+</p>
