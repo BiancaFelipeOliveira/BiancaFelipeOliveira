@@ -38,16 +38,14 @@ Minha trajetória é marcada pelo interesse em projetos práticos que resolvam p
 
 Estou sempre em busca de novos desafios que me permitam aplicar meu conhecimento em desenvolvimento e minha paixão pela criação de jogos para construir experiências digitais incríveis e funcionais.</p>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:FFA1D0,50:FFA1D0,100:FFA1D0&section=footer" width="100%">
-</p>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <div align="center">
-  
   <h4>🎨 Frontend & Design</h4>
    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular"/>
-
- 
 </div>
 
 
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:FFA1D0,50:FFA1D0,100:FFA1D0&section=footer" width="100%">
+</p>
