@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
- 
- 
-  
   <a href="mailto:biancafelipedeoliveira@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-ebc4d7?style=for-the-badge&logo=gmail&logoColor=ffffff%22" />
   </a>
@@ -28,8 +25,29 @@
   </a>
   -->
 </p>
+ 
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<p>Olá! Meu nome é Bianca e sou uma entusiasta da tecnologia em constante evolução. Com formação em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e atualmente cursando o 3º semestre de Engenharia da Computação pelo ENIAC, sigo aprimorando meu perfil técnico com uma base voltada à resolução de problemas e ao desenvolvimento de sistemas.
 
+Atualmente, estou cursando o módulo de Games Making, onde venho unindo a estrutura da engenharia com a criatividade da computação gráfica. Tenho desenvolvido habilidades práticas em criação de personagens, lógica em C# e domínio de ferramentas como Inkscape, GIMP e Construct 2.
+
+Minha trajetória é marcada pelo interesse em projetos práticos que resolvam problemas reais. Acredito que a tecnologia deve ser uma ferramenta de impacto, o que me levou a desenvolver projetos como:
+
+ * **Projeto Colheita:** Um site criado para o projeto de extensão da faculdade, que conecta diretamente produtores rurais a consumidores, fortalecendo a economia local (confira o projeto aqui: [Link do YouTube](https://youtu.be/KM_p-jyhGio?si=3oKTPkFbKirKutV6)).
+* **Projeto Reconecta:** Um projeto voltado para o público feminino, focado em ajudar mulheres a reencontrarem seu espaço no mercado de trabalho (confira o projeto aqui: [Link do YouTube](https://www.youtube.com/playlist?list=PLpwKBDEcob18BYpGAaFyRipXMT91SgFtR)).
+
+Estou sempre em busca de novos desafios que me permitam aplicar meu conhecimento em desenvolvimento e minha paixão pela criação de jogos para construir experiências digitais incríveis e funcionais.</p>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:FFA1D0,50:FFA1D0,100:FFA1D0&section=footer" width="100%">
 </p>
+
+<div align="center">
+  
+  <h4>🎨 Frontend & Design</h4>
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular"/>
+
+ 
+</div>
+
+
