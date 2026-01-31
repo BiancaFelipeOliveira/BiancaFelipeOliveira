@@ -61,19 +61,25 @@ Estou sempre em busca de novos desafios que me permitam aplicar meu conhecimento
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <h2>Aberta a oportunidades</h2>
-Cargos:
-- Analista de Sistemas
-- Estagiária em Frontend
-- Trainee
+<p>Cargo:</p>
+  <ul>
+    <li>Analista de Sistemas</li>
+    <li>Estágiaria</li>
+    <li>Trainee</li>
+  </ul>
 
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
+<p>Modelo:</p>
+  <ul>
+    <li>Remoto</li>
+    <li>Híbrido</li>
+    <li>Presencial</li>
+  </ul>
 
 Local:
 Guarulhos, SP — Brasil
-
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1000&color=FFA1D0&center=true&vCenter=true&width=1000&lines=Obrigada+por+visitar+meu+perfil!+" alt="Typing SVG" /></a>
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:FFA1D0,50:FFA1D0,100:FFA1D0&section=footer" width="100%">
 </p>
