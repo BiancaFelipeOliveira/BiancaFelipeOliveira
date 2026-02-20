@@ -85,7 +85,7 @@ Guarulhos, SP — Brasil
     srcset="https://raw.githubusercontent.com/BiancaFelipeOliveira/BiancaFelipeOliveira/output/pacman-contribution-graph-dark.svg"
   >
   <source 
-    media="(prefers-color-scheme: dark)" 
+    media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/BiancaFelipeOliveira/BiancaFelipeOliveira/output/pacman-contribution-graph.svg"
   >
   <img 
