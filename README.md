@@ -79,6 +79,20 @@ Local:
 Guarulhos, SP — Brasil
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 <br>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/BiancaFelipeOliveira/BiancaFelipeOliveira/output/pacman-contribution-graph-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/BiancaFelipeOliveira/BiancaFelipeOliveira/output/pacman-contribution-graph.svg"
+  >
+  <img 
+    alt="Pacman contribution graph" 
+    src="https://raw.githubusercontent.com/BiancaFelipeOliveira/BiancaFelipeOliveira/output/pacman-contribution-graph.svg"
+  >
+</picture>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1000&color=FFA1D0&center=true&vCenter=true&width=1000&lines=Obrigada+por+visitar+meu+perfil!+" alt="Typing SVG" /></a>
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=147&color=0:FFA1D0,50:FFA1D0,100:FFA1D0&section=footer" width="100%">
